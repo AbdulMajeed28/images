@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: 'Geologica', sans-serif;
   font-family: 'Source Sans Pro', sans-serif;
+  background-color: black;
 }
 .container{
   display: flex;
@@ -19,6 +20,7 @@
   font-weight: bolder;
   padding-bottom:10px; 
   padding-top: 10px;
+  color: whitesmoke;
 } 
 
 .container .heading {
